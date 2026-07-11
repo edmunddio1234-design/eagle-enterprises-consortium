@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Eagle Enterprises Consortium mark: gold eagle chevron rising over three consortium bars">
+  <!-- Navy field -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#101A38"/>
+  <!-- Three consortium bars (the network EEC coordinates) -->
+  <rect x="14" y="48" width="36" height="4" rx="2" fill="#2F4A8F"/>
+  <rect x="18" y="41" width="28" height="4" rx="2" fill="#3D5CA6"/>
+  <rect x="22" y="34" width="20" height="4" rx="2" fill="#5B79BF"/>
+  <!-- Eagle chevron rising: outstretched wings over the bars -->
+  <path d="M32 10 L52 28 L46 28 L32 16 L18 28 L12 28 Z" fill="#F4B41A"/>
+  <path d="M32 20 L44 30 L39 30 L32 24 L25 30 L20 30 Z" fill="#F4B41A" opacity=".85"/>
+  <!-- Eagle head point -->
+  <circle cx="32" cy="12.5" r="2.4" fill="#FFD966"/>
+</svg>
