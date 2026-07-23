@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eagle-enterprises-consortium.vercel.app/sitemap.xml
+Sitemap: https://www.eagleenterprisesconsortiuml3c.org/sitemap.xml

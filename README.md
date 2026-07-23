@@ -26,7 +26,7 @@ Plain HTML + CSS + vanilla JS. No build step. Deploy the folder as-is.
    to the repo root.
 2. In Vercel: **Add New → Project → Import** the repo. Framework preset: **Other** (static).
    No build command, no output directory — deploy the root.
-3. Vercel serves it at `https://eagle-enterprises-consortium.vercel.app` (the placeholder URL
+3. Vercel serves it at `https://www.eagleenterprisesconsortiuml3c.org` (the placeholder URL
    used in canonicals/sitemap). `cleanUrls: true` makes `/about` serve `about.html`.
 
 ### Wiring the forms to Supabase later (optional)
@@ -39,7 +39,7 @@ the fallback address, so no submission is lost.
 
 ## Placeholders — owner (Sonny/Fredell) to confirm
 
-- **Domain**: `https://eagle-enterprises-consortium.vercel.app` is a placeholder. When the real
+- **Domain**: `https://www.eagleenterprisesconsortiuml3c.org` is a placeholder. When the real
   domain is purchased, update: every page's `<link rel="canonical">` and `og:url`,
   `sitemap.xml`, and `robots.txt`.
 - **Email**: `connect@eagle-enterprises-consortium.org` is a **to-be-created** address (it is
@@ -49,8 +49,8 @@ the fallback address, so no submission is lost.
 - **Tier pricing** on `services.html` is intentionally unpriced ("Entry/Standard/Family/
   Premium") — set dollar amounts at platform launch.
 - **Sibling site URLs** in footers and `ecosystem.html` are placeholders until those sites
-  have final domains: RV3 `https://rv3-vanguard-of-valor.vercel.app`, Guardian Angels
-  `https://guardian-angels-enterprises.vercel.app`.
+  have final domains: RV3 `https://www.rv3vanguardofvalor.org`, Guardian Angels
+  `https://www.guardianangelsenterprises.org`.
 - **Registered office** shown as 16458 Highway 38, Greensburg, LA 70441-3602 (from the EEC L3C
   strategic plan). Confirm this is the address to publish.
 - **Phone** (504) 505-1512 — shared ecosystem number; confirm routing.
