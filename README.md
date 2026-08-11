@@ -13,7 +13,7 @@ Plain HTML + CSS + vanilla JS. No build step. Deploy the folder as-is.
   gold-500 `#F4B41A` (accents/borders only — never text on white), gold-600 `#9A6A00`
   (text-safe gold), green-700 `#1B6B3A` support. WCAG 2.2 AA throughout.
 - `js/main.js` — mobile nav toggle + form handler (POST `/api/submit` with mailto fallback
-  to `connect@eagle-enterprises-consortium.org`).
+  to `connect@eagleenterprisesconsortiuml3c.org`).
 - `assets/logo-mark.svg` — eagle chevron rising over three consortium bars, navy + gold.
 - 10 pages: index, about, m-toc, net-wircing, seismic, bootcamps, rdic, services,
   ecosystem, contact. Plus `sitemap.xml`, `robots.txt`, `vercel.json` (`cleanUrls: true`).
@@ -42,7 +42,7 @@ the fallback address, so no submission is lost.
 - **Domain**: `https://www.eagleenterprisesconsortiuml3c.org` is a placeholder. When the real
   domain is purchased, update: every page's `<link rel="canonical">` and `og:url`,
   `sitemap.xml`, and `robots.txt`.
-- **Email**: `connect@eagle-enterprises-consortium.org` is a **to-be-created** address (it is
+- **Email**: `connect@eagleenterprisesconsortiuml3c.org` is a **to-be-created** address (it is
   the JS fallback email and appears on the Contact page and footer). Create the mailbox or
   swap in a live address in `js/main.js` (fallback default), `contact.html`, and the footer
   of every page.
@@ -53,7 +53,7 @@ the fallback address, so no submission is lost.
   `https://www.guardianangelsenterprises.org`.
 - **Registered office** shown as 16458 Highway 38, Greensburg, LA 70441-3602 (from the EEC L3C
   strategic plan). Confirm this is the address to publish.
-- **Phone** (504) 505-1512 — shared ecosystem number; confirm routing.
+- **Phone** (504) 657-7594 — shared ecosystem number; confirm routing.
 - **Stats**: index/about use L-01 research figures (39%, 65% vs 46%, 8% of 2023 new
   businesses); ecosystem.html uses the VI-PAR pilot **demo** figures (312/184/4/8), labeled
   as demo data on the page.
