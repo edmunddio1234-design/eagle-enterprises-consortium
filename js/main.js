@@ -59,7 +59,7 @@
 
     // If the API isn't wired yet, don't lose the submission — open a prefilled email.
     function onFallback(payload) {
-      var to = form.getAttribute('data-fallback-email') || 'connect@eagle-enterprises-consortium.org';
+      var to = form.getAttribute('data-fallback-email') || 'connect@eagleenterprisesconsortiuml3c.org';
       var subject = encodeURIComponent('Website submission: ' + payload.form_type);
       var lines = Object.keys(payload).map(function (k) { return k + ': ' + payload[k]; });
       var body = encodeURIComponent(lines.join('\n'));
